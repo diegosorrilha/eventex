@@ -1,0 +1,12 @@
+engines:
+  fixme:
+    enable: true
+  duplication:
+    enable: true
+    config:
+      languages:
+        - python
+      pep8:
+        enable: true
+      radon: true
+
